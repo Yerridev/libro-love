@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+
+
+/* Configuración de la fuente */
+body {
+    font-family: 'Archivo', sans-serif;
+}
